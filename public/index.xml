@@ -2,57 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rolling Roland - Bicycling to Work in Vancouver</title>
-    <link>http://localhost:1313/</link>
+    <link>http://rollingroland.com/</link>
     <description>Recent content on Rolling Roland - Bicycling to Work in Vancouver</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Apr 2020 07:01:17 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2020 21:14:18 -0700</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rollingroland.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Vancouver Crossings</title>
+      <link>http://rollingroland.com/post/2020-05-08-p1-vancouver-crossings/</link>
+      <pubDate>Fri, 08 May 2020 21:14:18 -0700</pubDate>
+      
+      <guid>http://rollingroland.com/post/2020-05-08-p1-vancouver-crossings/</guid>
+      <description>East / West  Cross Nanaimo at 20th Cross Knight at 47th Cross Knight at 37th Cross Knight at 19th Cross Main at 18th Cross Main at 14th Cross Fraser at 19th  </description>
+    </item>
+    
+    <item>
       <title>Unless you&#39;re physically distancing, please bicycle in a straight line</title>
-      <link>http://localhost:1313/post/2020-04-20-p1-please-do-not-bicycle-erratically/</link>
+      <link>http://rollingroland.com/post/2020-04-20-p1-please-do-not-bicycle-erratically/</link>
       <pubDate>Mon, 20 Apr 2020 12:26:49 -0700</pubDate>
       
-      <guid>http://localhost:1313/post/2020-04-20-p1-please-do-not-bicycle-erratically/</guid>
+      <guid>http://rollingroland.com/post/2020-04-20-p1-please-do-not-bicycle-erratically/</guid>
       <description>Pandemic or not, we need to bicycle in a predictable fashion so everybody sees us and we are predictable. No swerving! I know it feels good but leave that for wide AAA bicycle paths not the city of Vancouver streets.</description>
     </item>
     
     <item>
       <title>Unless you&#39;re physically distancing, please Do Not Run on the Road</title>
-      <link>http://localhost:1313/post/2020-04-19-p2-please-do-not-run-on-the-road/</link>
+      <link>http://rollingroland.com/post/2020-04-19-p2-please-do-not-run-on-the-road/</link>
       <pubDate>Sun, 19 Apr 2020 07:01:17 -0700</pubDate>
       
-      <guid>http://localhost:1313/post/2020-04-19-p2-please-do-not-run-on-the-road/</guid>
+      <guid>http://rollingroland.com/post/2020-04-19-p2-please-do-not-run-on-the-road/</guid>
       <description>I know there is less traffic but but please don&amp;rsquo;t run on the road unless you have to in order to maintain physical distancing. All it takes is one car at 50km/h to kill a runner. If you are going to run on the road wear lights and don&amp;rsquo;t wear headphones!</description>
     </item>
     
     <item>
       <title>Bicycle 10 metres Apart During the Pandemic?!?</title>
-      <link>http://localhost:1313/post/2020-04-19-p1-bicycle-10metres-apart-during-the-pandemic/</link>
+      <link>http://rollingroland.com/post/2020-04-19-p1-bicycle-10metres-apart-during-the-pandemic/</link>
       <pubDate>Sun, 19 Apr 2020 00:54:01 -0700</pubDate>
       
-      <guid>http://localhost:1313/post/2020-04-19-p1-bicycle-10metres-apart-during-the-pandemic/</guid>
+      <guid>http://rollingroland.com/post/2020-04-19-p1-bicycle-10metres-apart-during-the-pandemic/</guid>
       <description>10 metres apart? Now that is going to be difficult.</description>
     </item>
     
     <item>
       <title>Garmin Varia Rtl510 Radar Works</title>
-      <link>http://localhost:1313/post/2018-06-05-p1-garmin-varia-rtl510-radar-works/</link>
+      <link>http://rollingroland.com/post/2018-06-05-p1-garmin-varia-rtl510-radar-works/</link>
       <pubDate>Tue, 05 Jun 2018 10:05:01 -0700</pubDate>
       
-      <guid>http://localhost:1313/post/2018-06-05-p1-garmin-varia-rtl510-radar-works/</guid>
+      <guid>http://rollingroland.com/post/2018-06-05-p1-garmin-varia-rtl510-radar-works/</guid>
       <description> Bought the Varia RTL 510 Radar and an Edge 130 computer a couple of weeks ago. Works great! Now I want a colour Garmin computer! Can&amp;rsquo;t wait until there is competition and other companies support radar!  </description>
     </item>
     
     <item>
       <title>Is It Me or Are Car Drivers Driving More Badly?</title>
-      <link>http://localhost:1313/post/2018-05-21-p2-is-it-me-or-are-car-drivers-driving-more-badly/</link>
+      <link>http://rollingroland.com/post/2018-05-21-p2-is-it-me-or-are-car-drivers-driving-more-badly/</link>
       <pubDate>Mon, 21 May 2018 21:43:05 -0700</pubDate>
       
-      <guid>http://localhost:1313/post/2018-05-21-p2-is-it-me-or-are-car-drivers-driving-more-badly/</guid>
+      <guid>http://rollingroland.com/post/2018-05-21-p2-is-it-me-or-are-car-drivers-driving-more-badly/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Besides the usual:
 &lt;ul&gt;
@@ -65,64 +74,64 @@
     
     <item>
       <title>Reluctant Road Bicyclist</title>
-      <link>http://localhost:1313/post/2018-05-21-p1-reluctant-road-bicyclist/</link>
+      <link>http://rollingroland.com/post/2018-05-21-p1-reluctant-road-bicyclist/</link>
       <pubDate>Mon, 21 May 2018 21:37:13 -0700</pubDate>
       
-      <guid>http://localhost:1313/post/2018-05-21-p1-reluctant-road-bicyclist/</guid>
+      <guid>http://rollingroland.com/post/2018-05-21-p1-reluctant-road-bicyclist/</guid>
       <description> I&amp;rsquo;ve purchased an All City &amp;ldquo;cross bike&amp;rdquo; and become a reluctant :-) road bicyclist! Super fun but super dangerous due to people driving cars badly and potholes! Also clip in pedals are more efficient but super impractical for normal city riding #ymmv  </description>
     </item>
     
     <item>
       <title>day 36 of snowmaggedon2016-17</title>
-      <link>http://localhost:1313/post/2017-01-09-day36-snowmaggedon2016-7/</link>
+      <link>http://rollingroland.com/post/2017-01-09-day36-snowmaggedon2016-7/</link>
       <pubDate>Mon, 09 Jan 2017 13:47:56 -0800</pubDate>
       
-      <guid>http://localhost:1313/post/2017-01-09-day36-snowmaggedon2016-7/</guid>
+      <guid>http://rollingroland.com/post/2017-01-09-day36-snowmaggedon2016-7/</guid>
       <description>&lt;p&gt;&lt;strong&gt;tl;dr&lt;/strong&gt;: Snowmaggedon Day 36 (since December 5th, 2016) means no bicycling to work for me in the last 5 weeks :-(&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Full vancouver &gt;5 degrees raingear</title>
-      <link>http://localhost:1313/post/2016-11-10-p1-full-vancouver-warm-raingear/</link>
+      <link>http://rollingroland.com/post/2016-11-10-p1-full-vancouver-warm-raingear/</link>
       <pubDate>Thu, 10 Nov 2016 10:55:14 -0800</pubDate>
       
-      <guid>http://localhost:1313/post/2016-11-10-p1-full-vancouver-warm-raingear/</guid>
+      <guid>http://rollingroland.com/post/2016-11-10-p1-full-vancouver-warm-raingear/</guid>
       <description>&lt;p&gt;tl;dr: If it&amp;rsquo;s raining and over 5 degrees, I wear: crocs, maloja waterproof bicycling shorts (with wicking underwear), gloves, Dish and Duer rain shield vest. If it&amp;rsquo;s raining hard I add a happy days rain cape .&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Do you really need to wear socks when bicycling to work in the rain?</title>
-      <link>http://localhost:1313/post/2016-11-02-p1-no-socks-bicycle-to-work-in-the-rain/</link>
+      <link>http://rollingroland.com/post/2016-11-02-p1-no-socks-bicycle-to-work-in-the-rain/</link>
       <pubDate>Wed, 02 Nov 2016 21:19:21 -0700</pubDate>
       
-      <guid>http://localhost:1313/post/2016-11-02-p1-no-socks-bicycle-to-work-in-the-rain/</guid>
+      <guid>http://rollingroland.com/post/2016-11-02-p1-no-socks-bicycle-to-work-in-the-rain/</guid>
       <description>&lt;p&gt;tl;dr: My thesis is:NO you don&amp;rsquo;t have to wear socks when bicycling to work in the rain if your commute is less than 10 km one way and it&amp;rsquo;s &amp;gt;= about 5 degrees Celsius&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>mobi bikes after a few months</title>
-      <link>http://localhost:1313/post/2016-10-30-p1-mobi-bikes-after-a-few-months/</link>
+      <link>http://rollingroland.com/post/2016-10-30-p1-mobi-bikes-after-a-few-months/</link>
       <pubDate>Sun, 30 Oct 2016 08:19:31 -0700</pubDate>
       
-      <guid>http://localhost:1313/post/2016-10-30-p1-mobi-bikes-after-a-few-months/</guid>
+      <guid>http://rollingroland.com/post/2016-10-30-p1-mobi-bikes-after-a-few-months/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.mobibikes.ca/&#34;&gt;Mobi bikes&lt;/a&gt; are very useful for me but still not generally useful until they make it to Broadway and Commercial and we could do with less clunky bikes and get rid of those helmets.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Every week is bike to work week</title>
-      <link>http://localhost:1313/post/2016-10-29-p1-every-week-is-bike-to-work-week/</link>
+      <link>http://rollingroland.com/post/2016-10-29-p1-every-week-is-bike-to-work-week/</link>
       <pubDate>Sat, 29 Oct 2016 13:21:07 -0700</pubDate>
       
-      <guid>http://localhost:1313/post/2016-10-29-p1-every-week-is-bike-to-work-week/</guid>
+      <guid>http://rollingroland.com/post/2016-10-29-p1-every-week-is-bike-to-work-week/</guid>
       <description>&lt;p&gt;Buy the right gear and lights and every week is bike to work week!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>hello</title>
-      <link>http://localhost:1313/post/hello/</link>
+      <link>http://rollingroland.com/post/hello/</link>
       <pubDate>Thu, 27 Oct 2016 21:46:03 -0700</pubDate>
       
-      <guid>http://localhost:1313/post/hello/</guid>
+      <guid>http://rollingroland.com/post/hello/</guid>
       <description>I&amp;rsquo;ve been bicycling to work for 9 years in the city of Vancouver, BC and this is my bicycling blog. I&amp;rsquo;m not a vehicular bicyclist or a mountain biker or a road biker. Just someone with a lovely (mostly!) 6km commute Monday to Friday from East Van to Gastown.</description>
     </item>
     

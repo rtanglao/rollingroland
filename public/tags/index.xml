@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Rolling Roland - Bicycling to Work in Vancouver</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://rollingroland.com/tags/</link>
     <description>Recent content in Tags on Rolling Roland - Bicycling to Work in Vancouver</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Apr 2020 12:26:49 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2020 21:14:18 -0700</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rollingroland.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>crossings</title>
+      <link>http://rollingroland.com/tags/crossings/</link>
+      <pubDate>Fri, 08 May 2020 21:14:18 -0700</pubDate>
+      
+      <guid>http://rollingroland.com/tags/crossings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>pandemic</title>
-      <link>http://localhost:1313/tags/pandemic/</link>
+      <link>http://rollingroland.com/tags/pandemic/</link>
       <pubDate>Mon, 20 Apr 2020 12:26:49 -0700</pubDate>
       
-      <guid>http://localhost:1313/tags/pandemic/</guid>
+      <guid>http://rollingroland.com/tags/pandemic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>swerving</title>
-      <link>http://localhost:1313/tags/swerving/</link>
+      <link>http://rollingroland.com/tags/swerving/</link>
       <pubDate>Mon, 20 Apr 2020 12:26:49 -0700</pubDate>
       
-      <guid>http://localhost:1313/tags/swerving/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>swerving pandemic</title>
-      <link>http://localhost:1313/tags/swerving-pandemic/</link>
-      <pubDate>Mon, 20 Apr 2020 12:26:49 -0700</pubDate>
-      
-      <guid>http://localhost:1313/tags/swerving-pandemic/</guid>
+      <guid>http://rollingroland.com/tags/swerving/</guid>
       <description></description>
     </item>
     
