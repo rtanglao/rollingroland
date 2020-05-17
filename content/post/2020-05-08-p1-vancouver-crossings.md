@@ -24,6 +24,9 @@ tags: [crossings]
 
 * Cross 12th at Heather
 * Cross Kingsway at Glen
+* Cross Kingsway at Miller
 * Cross Kingsway at Windsor
 * Cross 49th at Cypress
 * Cross 41st at Angus
+* Cross 1st at Lilooet
+
