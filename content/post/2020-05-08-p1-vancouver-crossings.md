@@ -16,6 +16,7 @@ tags: [crossings]
 * Cross Main at 18th
 * Cross Main at 14th
 * Cross Fraser at 19th
+* Cross Cambie at 14th
 * Cross Cambie at  18th
 * Cross Cambie at 20th
 * Cross Victoria at 22nd
