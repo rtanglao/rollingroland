@@ -30,4 +30,6 @@ tags: [crossings]
 * Cross 49th at Cypress
 * Cross 41st at Angus
 * Cross 1st at Lilooet
+* Cross 29th at Atlin
+* No safe crossing at Skeena and 1st Avenue (just walk)
 
