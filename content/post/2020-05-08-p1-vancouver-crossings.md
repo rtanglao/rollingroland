@@ -28,6 +28,7 @@ tags: [crossings]
 * Cross Kingsway at Miller
 * Cross Kingsway at Windsor
 * Cross 49th at Cypress
+* Cross 49th at Tisdall (not Heather or Willow)
 * Cross 41st at Angus
 * Cross 1st at Lilooet
 * Cross 29th at Atlin
